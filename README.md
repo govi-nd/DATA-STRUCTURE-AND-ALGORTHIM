@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
+| [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
@@ -50,8 +53,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
+| [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
