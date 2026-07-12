@@ -17,43 +17,43 @@ public:
     //     return ans;
     // }
     int lowerBound(vector<int>& arr, int x) {
-    int l = 0, h = arr.size() - 1;
-    int ans = arr.size();  // default (if all < x)
+        int l = 0, h = arr.size() - 1;
+        int ans = arr.size(); // default (if all < x)
 
-    while (l <= h) {
-        int mid = (l + h) / 2;
-        if (arr[mid] >= x) {
-            ans = mid;
-            h = mid - 1;
-        } else {
-            l = mid + 1;
+        while (l <= h) {
+            int mid = (l + h) / 2;
+            if (arr[mid] >= x) {
+                ans = mid;
+                h = mid - 1;
+            } else {
+                l = mid + 1;
+            }
         }
+        return ans;
     }
-    return ans;
-}
     vector<int> bs_approach(vector<int>& arr, int k, int x) {
 
-    int n = arr.size();
+        int n = arr.size();
 
-    // find first index >= x
-    int h = lowerBound(arr,x);
-    int l = h - 1;
+        // find first index >= x
+        int h = lowerBound(arr, x);
+        int l = h - 1;
 
-    while (k--) {
-        if (l < 0) {
-            h++;
-        } else if (h >= n) {
-            l--;
-        } else if (x - arr[l] > arr[h] - x) {
-            h++;
-        } else {
-            l--;
+        while (k--) {
+            if (l < 0) {
+                h++;
+            } else if (h >= n) {
+                l--;
+            } else if (x - arr[l] > arr[h] - x) {
+                h++;
+            } else {
+                l--;
+            }
         }
+        return vector<int>(arr.begin() + l + 1, arr.begin() + h);
     }
-    return vector<int>(arr.begin() + l + 1, arr.begin() + h);
-}
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         // return twoPtr(arr,k,x);
-        return bs_approach(arr,k,x);
+        return bs_approach(arr, k, x);
     }
 };
