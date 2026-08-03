@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -43,16 +45,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
+| [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
@@ -81,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0509-fibonacci-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
