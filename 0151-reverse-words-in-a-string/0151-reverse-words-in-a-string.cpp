@@ -1,91 +1,133 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int n = s.length();
+         int n = s.length();
 
         // Reverse the entire string
-        int i = 0;
-        int j = n - 1;
+        reverse(s.begin(), s.end());
 
-        while (i < j) {
-            swap(s[i], s[j]);
-            i++;
-            j--;
-        }
+        int start = 0;
+        int end = 0;
 
-        // Reverse each word
-        int x = 0;
-        while (x < n) {
+        for (int i = 0; i < n; i++) {
 
-            // Skip spaces
-            while (x < n && s[x] == ' ')
-                x++;
+            // Skip extra spaces
+            while (i < n && s[i] == ' ')
+                i++;
 
-            if (x >= n)
+            if (i >= n)
                 break;
 
-            int z = x;
+            start = end;
 
-            // Find end of current word
-            while (z < n && s[z] != ' ')
-                z++;
+            // Copy one word
+            while (i < n && s[i] != ' ') {
+                s[end] = s[i];
+                end++;
+                i++;
+            }
 
-            // Reverse the word
-            reverse(s.begin() + x, s.begin() + z);
+            // Reverse the copied word
+            reverse(s.begin() + start, s.begin() + end);
 
-            x = z;
+            // Add one space after the word
+            s[end] = ' ';
+            end++;
         }
 
-        int write = 0;
-        int read = 0;
+        // Remove the last extra space
+        if (end > 0)
+            end--;
 
-        while (read < n) {
+        s.resize(end);
 
-            // Skip all spaces
-            while (read < n && s[read] == ' ')
-                read++;
-
-            if (read >= n)
-                break;
-
-            // Put one space before every word except the first
-            if (write != 0)
-                s[write++] = ' ';
-
-            // Copy the current word
-            while (read < n && s[read] != ' ')
-                s[write++] = s[read++];
-        }
-
-        s.resize(write);
         return s;
+        }
         // int n = s.length();
-        // vector<string> str;
 
-        // for (int i = 0; i < n; i++) {
-        //     if (s[i] == ' ')
-        //         continue;
-        //     else {
-        //         int j = i;
+        // // Reverse the entire string
+        // int i = 0;
+        // int j = n - 1;
 
-        //         while (j < n && s[j] != ' ') {
-        //             j++;
-        //         }
-
-        //         str.push_back(s.substr(i, j - i));
-        //         i = j - 1;   // because the for loop will increment i
-        //     }
+        // while (i < j) {
+        //     swap(s[i], s[j]);
+        //     i++;
+        //     j--;
         // }
 
-        // string ans;
+        // // Reverse each word
+        // int x = 0;
+        // while (x < n) {
 
-        // for (int i = str.size() - 1; i >= 0; i--) {
-        //     ans += str[i];
+        //     // Skip spaces
+        //     while (x < n && s[x] == ' ')
+        //         x++;
 
-        //     if (i != 0)
-        //         ans += ' ';
+        //     if (x >= n)
+        //         break;
+
+        //     int z = x;
+
+        //     // Find end of current word
+        //     while (z < n && s[z] != ' ')
+        //         z++;
+
+        //     // Reverse the word
+        //     reverse(s.begin() + x, s.begin() + z);
+
+        //     x = z;
         // }
 
-        // return ans;
-    }
+        // int write = 0;
+        // int read = 0;
+
+        // while (read < n) {
+
+        //     // Skip all spaces
+        //     while (read < n && s[read] == ' ')
+        //         read++;
+
+        //     if (read >= n)
+        //         break;
+
+        //     // Put one space before every word except the first
+        //     if (write != 0)
+        //         s[write++] = ' ';
+
+        //     // Copy the current word
+        //     while (read < n && s[read] != ' ')
+        //         s[write++] = s[read++];
+        // }
+
+        // s.resize(write);
+        // return s;
+        // // int n = s.length();
+        // // vector<string> str;
+
+        // // for (int i = 0; i < n; i++) {
+        // //     if (s[i] == ' ')
+        // //         continue;
+        // //     else {
+        // //         int j = i;
+
+        // //         while (j < n && s[j] != ' ') {
+        // //             j++;
+        // //         }
+
+        // //         str.push_back(s.substr(i, j - i));
+        // //         i = j - 1;   // because the for loop will increment i
+        // //     }
+        // // }
+
+        // // string ans;
+
+        // // for (int i = str.size() - 1; i >= 0; i--) {
+        // //     ans += str[i];
+
+        // //     if (i != 0)
+        // //         ans += ' ';
+        // // }
+
+        // // return ans;
+    
 };
