@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
