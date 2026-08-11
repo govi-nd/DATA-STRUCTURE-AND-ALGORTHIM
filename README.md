@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0876-middle-of-the-linked-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -126,5 +128,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
