@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
