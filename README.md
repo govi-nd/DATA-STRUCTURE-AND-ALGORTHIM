@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0051-n-queens) |
+| [0189-rotate-array](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
