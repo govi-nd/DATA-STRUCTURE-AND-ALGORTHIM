@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
