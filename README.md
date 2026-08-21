@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0051-n-queens) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0283-move-zeroes) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
