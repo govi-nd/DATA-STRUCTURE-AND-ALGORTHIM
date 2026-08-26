@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Floyd's Cycle Finding Algorithm
