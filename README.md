@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1019-next-greater-node-in-linked-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -232,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
