@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1019-next-greater-node-in-linked-list) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
