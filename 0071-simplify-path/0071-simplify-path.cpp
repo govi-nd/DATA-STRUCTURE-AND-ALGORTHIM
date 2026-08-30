@@ -1,55 +1,95 @@
+// class Solution {
+// public:
+
+//     void buildAns(stack<string>& s, string& ans) {
+
+//         if (s.empty()) {
+//             return;
+//         }
+
+//         string minPath = s.top();
+//         s.pop();
+
+//         buildAns(s, ans);
+
+//         ans += minPath;
+//     }
+
+//     string simplifyPath(string path) {
+
+//         stack<string> s;
+
+//         int i = 0;
+
+//         while (i < path.size()) {
+
+//             int start = i;
+//             int end = i + 1;
+
+//             while (end < path.size() && path[end] != '/') {
+//                 ++end;
+//             }
+
+//             string minPath = path.substr(start, end - start);
+
+//             i = end;
+
+//             if (minPath == "/" || minPath == "/.") {
+//                 continue;
+//             }
+
+//             if (minPath != "/..") {
+//                 s.push(minPath);
+//             }
+//             else if (!s.empty()) {
+//                 s.pop();
+//             }
+//         }
+
+//         string ans = s.empty() ? "/" : "";
+
+//         buildAns(s, ans);
+
+//         return ans;
+//     }
+// };
+
 class Solution {
 public:
-
-    void buildAns(stack<string>& s, string& ans) {
-
-        if (s.empty()) {
-            return;
-        }
-
-        string minPath = s.top();
-        s.pop();
-
-        buildAns(s, ans);
-
-        ans += minPath;
-    }
-
     string simplifyPath(string path) {
 
-        stack<string> s;
+        vector<string> st;
+        stringstream ss(path);
+        string folder;
 
-        int i = 0;
+        // Get each folder between '/'
+        while (getline(ss, folder, '/')) {
 
-        while (i < path.size()) {
-
-            int start = i;
-            int end = i + 1;
-
-            while (end < path.size() && path[end] != '/') {
-                ++end;
-            }
-
-            string minPath = path.substr(start, end - start);
-
-            i = end;
-
-            if (minPath == "/" || minPath == "/.") {
+            // Ignore empty string and "."
+            if (folder == "" || folder == ".") {
                 continue;
             }
 
-            if (minPath != "/..") {
-                s.push(minPath);
+            // Go one directory back
+            if (folder == "..") {
+                if (!st.empty()) {
+                    st.pop_back();
+                }
             }
-            else if (!s.empty()) {
-                s.pop();
+
+            // Normal folder
+            else {
+                st.push_back(folder);
             }
         }
 
-        string ans = s.empty() ? "/" : "";
+        // Build answer
+        string ans = "";
 
-        buildAns(s, ans);
+        for (string folder : st) {
+            ans += "/" + folder;
+        }
 
-        return ans;
+        return ans == "" ? "/" : ans;
     }
 };
