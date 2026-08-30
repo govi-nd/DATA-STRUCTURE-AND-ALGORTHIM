@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Queue
 |  |
 | ------- |
