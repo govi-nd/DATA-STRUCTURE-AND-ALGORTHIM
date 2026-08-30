@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0739-daily-temperatures) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0739-daily-temperatures) |
