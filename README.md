@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0907-sum-of-subarray-minimums) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0907-sum-of-subarray-minimums) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0907-sum-of-subarray-minimums) |
