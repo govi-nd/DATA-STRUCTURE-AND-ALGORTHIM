@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
