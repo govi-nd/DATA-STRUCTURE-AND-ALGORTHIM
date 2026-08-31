@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0239-sliding-window-maximum) |
