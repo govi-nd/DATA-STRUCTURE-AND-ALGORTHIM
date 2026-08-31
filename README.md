@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0649-dota2-senate) |
 ## Bracket Sequences
 |  |
 | ------- |
