@@ -1,59 +1,94 @@
 class Solution {
 public:
-    // vector<int> twoPtr(vector<int>& arr, int k, int x) {
-    //     int l = 0;
-    //     int h = arr.size() - 1;
-    //     while ((h - l) >= k) {
-    //         if (x - arr[l] > arr[h] - x) {
-    //             l++;
-    //         } else {
-    //             h--;
-    //         }
-    //     }
-    //     vector<int> ans;
-    //     for (int i = l; i <= h; i++) {
-    //         ans.push_back(arr[i]);
-    //     }
-    //     return ans;
-    // }
-    int lowerBound(vector<int>& arr, int x) {
-        int l = 0, h = arr.size() - 1;
-        int ans = arr.size(); // default (if all < x)
 
-        while (l <= h) {
-            int mid = (l + h) / 2;
-            if (arr[mid] >= x) {
-                ans = mid;
-                h = mid - 1;
-            } else {
-                l = mid + 1;
+    int bs(vector<int>& arr, int x) {
+        int low = 0;
+        int high = arr.size() - 1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid] == x) {
+                return mid;
+            }
+            else if (arr[mid] < x) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
             }
         }
-        return ans;
+
+        // high = index of element just smaller than x
+        // low = index of element just greater than x
+
+        if (x - arr[high] <= arr[low] - x) {
+            return high;
+        }
+
+        return low;
     }
-    vector<int> bs_approach(vector<int>& arr, int k, int x) {
+
+
+    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
 
         int n = arr.size();
+        vector<int> ans;
 
-        // find first index >= x
-        int h = lowerBound(arr, x);
-        int l = h - 1;
-
-        while (k--) {
-            if (l < 0) {
-                h++;
-            } else if (h >= n) {
-                l--;
-            } else if (x - arr[l] > arr[h] - x) {
-                h++;
-            } else {
-                l--;
+        // x is greater than all elements
+        if (x >= arr[n - 1]) {
+            for (int i = n - k; i < n; i++) {
+                ans.push_back(arr[i]);
             }
+            return ans;
         }
-        return vector<int>(arr.begin() + l + 1, arr.begin() + h);
-    }
-    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-        // return twoPtr(arr,k,x);
-        return bs_approach(arr, k, x);
+
+        // x is smaller than all elements
+        if (x <= arr[0]) {
+            for (int i = 0; i < k; i++) {
+                ans.push_back(arr[i]);
+            }
+            return ans;
+        }
+
+        // Find closest element
+        int index = bs(arr, x);
+
+        // Start with closest element included
+        int left = index - 1;
+        int right = index + 1;
+
+        k--; 
+
+        // Expand window until we have k elements
+        while (k > 0) {
+
+            if (left < 0) {
+                right++;
+            }
+
+            else if (right >= n) {
+                left--;
+            }
+
+            else if (x - arr[left] <= arr[right] - x) {
+                left--;
+            }
+
+            else {
+                right++;
+            }
+
+            k--;
+        }
+
+        // Our answer window is:
+        // left + 1  to  right - 1
+
+        for (int i = left + 1; i <= right - 1; i++) {
+            ans.push_back(arr[i]);
+        }
+
+        return ans;
     }
 };
