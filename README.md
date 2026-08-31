@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0496-next-greater-element-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0155-min-stack) |
+| [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
@@ -309,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
