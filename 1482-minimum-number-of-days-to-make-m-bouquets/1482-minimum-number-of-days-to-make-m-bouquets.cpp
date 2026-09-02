@@ -12,12 +12,9 @@ public:
                 counter=0;
                 if(m==0) return true;
             }
-             
         }
-            return false;
-        
+            return false;  
     }
-
     int minDays(vector<int>& bloomDay, int m, int k) {
         long long requiredMinFlowers = 1LL * m * k;;
         if(bloomDay.size()<requiredMinFlowers) return -1;
@@ -26,14 +23,11 @@ public:
        int ans = 0 ;   
        while(s<=e){
         int mid = s+(e-s)/2;
-        if(canMakeBouquet(bloomDay,m , k , mid))
-        {
+        if(canMakeBouquet(bloomDay,m , k , mid)){
             ans = mid ;
             e = mid - 1 ;
-
         }
-        else 
-        {
+        else {
             s=mid+1;
             }
        } 
