@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
