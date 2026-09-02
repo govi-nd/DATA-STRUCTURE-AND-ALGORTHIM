@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0160-intersection-of-two-linked-lists) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0169-majority-element) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0113-path-sum-ii) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0113-path-sum-ii) |
