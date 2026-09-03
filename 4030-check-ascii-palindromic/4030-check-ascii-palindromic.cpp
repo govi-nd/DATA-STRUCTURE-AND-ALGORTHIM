@@ -8,9 +8,20 @@ public:
             num += bitset<8>(charToNumber).to_string();
         }
 
-        string rev = num;
-        reverse(rev.begin(), rev.end());
+        // string rev = num;
+        // reverse(rev.begin(), rev.end());
+        int i = 0 ;
+        int j = num.size()-1;
+        while(i<j){
+            if(num[i]==num[j]){
+                i++;
+                j--;
+            }
+            else{
+                return false;
+            }
+        }
 
-        return num == rev;
+         return true;
     }
 };
