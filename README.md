@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0509-fibonacci-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
