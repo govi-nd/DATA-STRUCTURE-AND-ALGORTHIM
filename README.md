@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0907-sum-of-subarray-minimums) |
