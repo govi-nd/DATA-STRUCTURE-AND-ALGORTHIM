@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0904-fruit-into-baskets) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0835-image-overlap) |
 ## Design
 |  |
 | ------- |
