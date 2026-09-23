@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0394-decode-string) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0901-online-stock-span) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0341-flatten-nested-list-iterator) |
 ## Breadth-First Search
 |  |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -493,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/govi-nd/DATA-STRUCTURE-AND-ALGORTHIM/tree/master/0653-two-sum-iv-input-is-a-bst) |
